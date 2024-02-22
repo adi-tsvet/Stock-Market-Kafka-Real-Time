@@ -1,5 +1,7 @@
 # Stock Market Kafka Real Time
 
+This project aims to create a real-time stock market monitoring system using Apache Kafka. It leverages Kafka's distributed streaming platform to process and analyze stock market data, providing insights into market trends and fluctuations.
+
 ## Architecture
 
 ![](screenshots/Architecture.jpg)
